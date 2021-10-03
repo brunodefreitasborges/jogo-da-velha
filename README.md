@@ -6,5 +6,5 @@ Exercício parte do curso de Desenvolvimento Web do Igor Oliveira (aka Programad
 
 Adicionei algumas funcionalidades e efeitos de som ao projeto original.
 
-<a href="https://conversor-moedas-beta.vercel.app/">![alt text](https://github.com/brunodefreitasborges/jogo-da-velha/blob/main/banner.png?raw=true)</a>
+<a href="https://brunodefreitasborges.github.io/jogo-da-velha/">![alt text](https://github.com/brunodefreitasborges/jogo-da-velha/blob/main/banner.png?raw=true)</a>
  
